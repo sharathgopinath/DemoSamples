@@ -1,0 +1,4 @@
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DTO\bin\Debug\ProjectManagementDemo.DTO.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DTO\bin\Debug\ProjectManagementDemo.DTO.pdb
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DTO\obj\Debug\ProjectManagementDemo.DTO.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DTO\obj\Debug\ProjectManagementDemo.DTO.pdb

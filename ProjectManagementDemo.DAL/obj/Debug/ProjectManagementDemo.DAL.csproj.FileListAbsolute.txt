@@ -1,0 +1,16 @@
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\aspnet-ProjectManagementDemo.Web-20170222092111.mdf
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\aspnet-ProjectManagementDemo.Web-20170222092111_log.ldf
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.DAL.dll.config
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.DAL.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.DAL.pdb
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\EntityFramework.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\EntityFramework.xml
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\obj\Debug\ProjectManagementDemo.DAL.csprojResolveAssemblyReference.cache
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\obj\Debug\ProjectManagementDemo.DAL.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\obj\Debug\ProjectManagementDemo.DAL.pdb
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.BL.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.DTO.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.BL.pdb
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.DAL\bin\Debug\ProjectManagementDemo.DTO.pdb

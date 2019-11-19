@@ -1,0 +1,7 @@
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\bin\Debug\ProjectManagementDemo.BL.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\bin\Debug\ProjectManagementDemo.BL.pdb
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\bin\Debug\ProjectManagementDemo.DTO.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\bin\Debug\ProjectManagementDemo.DTO.pdb
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\obj\Debug\ProjectManagementDemo.BL.csprojResolveAssemblyReference.cache
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\obj\Debug\ProjectManagementDemo.BL.dll
+C:\Sharath\Dev\Test\ProjectManagementDemo\ProjectManagementDemo.BL\obj\Debug\ProjectManagementDemo.BL.pdb
